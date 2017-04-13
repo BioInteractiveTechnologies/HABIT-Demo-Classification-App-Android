@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BIT Gesture Recognition</string>
+    <string name="title_activity_raw_data">RawDataActivity</string>
+</resources>
