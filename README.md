@@ -8,3 +8,5 @@ The application allows user to:
 - Read Machine-Learning training results
 - Visualize raw force sensor output
 - Visualize HaBIT device orientation
+
+Find user manual for application [here](https://github.com/BioInteractiveTechnologies/HaBIT-Demo-Applications-Android)
